@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Research Fellow in College of Computing and Data Science (CCDS)|NTU, working with [Prof.Luo Siqiang](https://siqiangluo.com/).
+I am now a Research Fellow in College of Computing and Data Science (CCDS)|NTU, working with [Prof.Luo Siqiang](https://siqiangluo.com/). In Spring 2026, I will join Southeast University as an Associate Professor. 
 
 
 A data-driven personal website
