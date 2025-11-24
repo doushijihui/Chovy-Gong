@@ -9,7 +9,7 @@ redirect_from:
 
 I am now a Research Fellow in College of Computing and Data Science (CCDS)@NTU, working with [Prof. Luo Siqiang](https://siqiangluo.com/). In Spring 2026, I will join Southeast University (SEU) as a tenure-track Associate Professor. 
 
-I was a Research Fellow at the School of Computing (SoC)@NUS, where I was affiliated with [HPC-AI-LAB](https://ai.comp.nus.edu.sg/). I also served as a Senior Research Scientist at an AI startup, focusing on the acceleration training of a powerful video generation model [Open-Sora](https://huggingface.co/hpcai-tech/Open-Sora-v2). I earned my Ph.D. and B.Eng. from the SEU.
+I was a Research Fellow at the School of Computing (SoC)@NUS, where I was affiliated with [HPC-AI-LAB](https://ai.comp.nus.edu.sg/). I also served as a Senior Research Scientist at an AI startup, focusing on the acceleration training of a powerful video generation model [Open-Sora](https://huggingface.co/hpcai-tech/Open-Sora-v2). I earned my Ph.D. and B.Eng. from the SEU. For more details, please see my CV.
 
 In addition to academic research, I also design and implement high-frequency trading (HFT) strategies, focusing on algorithmic execution and multi-market arbitrage. 
 
