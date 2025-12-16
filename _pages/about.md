@@ -13,11 +13,11 @@ I earned my Ph.D. and B.Eng. from the SEU. I was a Research Fellow at the School
 
 In addition to academic research, I also design and implement high-frequency trading (HFT) strategies, focusing on algorithmic execution and multi-market arbitrage. 
 
-Pubications
+Selected Pubications
 ======
-**Chaoyu Gong**, XXX, XXX  
-*Time-series clustering with dynamic feature mining in the framework of belief-function theory*  
-**International Journal of Approximate Reasoning (IJAR)**, 2024.
+**Haoyu Liu**<sup>†</sup>, **Chaoyu Gong**<sup>†</sup>, XXX, XXX  
+*When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
+**KDD**, 2026.
 
 **Chaoyu Gong**, XXX  
 *XXX*  
