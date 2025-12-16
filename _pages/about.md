@@ -21,7 +21,7 @@ Haoyu Liu <sup>†</sup>, **Chaoyu Gong** <sup>†</sup>, et.al
 *When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
 **KDD**, 2026.
 
-Yong Liu, Zirui Zhu, **Chaoyu Gong** <sup>*</sup>, et.al  
+Yong Liu, Zirui Zhu, **Chaoyu Gong** *, et.al  
 *Sparse mezo: Less parameters for better performance in zeroth-order llm fine-tuning*  
 **Neurips**, 2025.
 
