@@ -43,7 +43,7 @@ Yunshu Shi, **Chaoyu Gong**<sup>✉</sup>, et.al
 
 **Chaoyu Gong**, et.al  
 *Sparse Reconstructive Evidential Clustering for Multi-view Data*  
-**IEEE/CAA Journal of Automatica Sinica**, 2024.
+**IEEE/CAA Journal of Automatica Sinica**, 2023.
 
 **Chaoyu Gong**, et.al  
 *Joint Evidential K-Nearest Neighbor Classification*  
