@@ -15,7 +15,7 @@ In addition to academic research, I also design and implement high-frequency tra
 
 Selected Pubications 
 ======
-(<sup>†</sup> Equal contribution, <sup>*</sup> Corresponding Author.)
+<sup>†</sup> Equal contribution, <sup>*</sup> Corresponding Author
 
 Haoyu Liu<sup>†</sup>, **Chaoyu Gong**<sup>†</sup>, et.al  
 *When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
