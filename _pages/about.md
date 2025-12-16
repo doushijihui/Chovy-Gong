@@ -13,8 +13,10 @@ I earned my Ph.D. and B.Eng. from the SEU. I was a Research Fellow at the School
 
 In addition to academic research, I also design and implement high-frequency trading (HFT) strategies, focusing on algorithmic execution and multi-market arbitrage. 
 
-Selected Pubications (<sup>†</sup> Equal contribution, <sup>*</sup> Corresponding Author.)
+Selected Pubications 
 ======
+(<sup>†</sup> Equal contribution, <sup>*</sup> Corresponding Author.)
+
 Haoyu Liu<sup>†</sup>, **Chaoyu Gong**<sup>†</sup>, et.al  
 *When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
 **KDD**, 2026.
