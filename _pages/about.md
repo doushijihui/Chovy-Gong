@@ -15,13 +15,17 @@ In addition to academic research, I also design and implement high-frequency tra
 
 Selected Pubications (<sup>†</sup> Equal contribution, <sup>*</sup> Corresponding Author.)
 ======
-**Haoyu Liu**<sup>†</sup>, **Chaoyu Gong**<sup>†</sup>, et.al  
+Haoyu Liu<sup>†</sup>, **Chaoyu Gong**<sup>†</sup>, et.al  
 *When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
 **KDD**, 2026.
 
-**Chaoyu Gong**, XXX  
-*XXX*  
-**IEEE TKDE**, 2023.
+Yong Liu, Zirui Zhu, **Chaoyu Gong**<sup>*</sup>, et.al  
+*Sparse mezo: Less parameters for better performance in zeroth-order llm fine-tuning*  
+**Neurips**, 2025.
+
+Yunshu Shi, **Chaoyu Gong**<sup>*</sup>, et.al  
+*Time-Series Clustering With Dynamic Feature Mining in the Framework of Belief Function Theory*  
+**IEEE TSMC**, 2025.
 
 Getting started
 ======
