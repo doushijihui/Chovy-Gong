@@ -29,6 +29,34 @@ Yunshu Shi, **Chaoyu Gong**<sup>✉</sup>, et.al
 *Time-Series Clustering With Dynamic Feature Mining in the Framework of Belief Function Theory*  
 **IEEE TSMC**, 2025.
 
+**Chaoyu Gong**, et.al  
+*Multi-view Evidential K-NN Classification*  
+**Information Fusion**, 2025.
+
+**Chaoyu Gong**, et.al  
+*Distributed and Joint Evidential K -Nearest Neighbor Classification*  
+**IEEE TKDE**, 2024.
+
+**Chaoyu Gong**, et.al  
+*Scalable Evidential K -Nearest Neighbor Classification on Big Data*  
+**IEEE TBD**, 2024.
+
+**Chaoyu Gong**, et.al  
+*Sparse Reconstructive Evidential Clustering for Multi-view Data*  
+**IEEE/CAA Journal of Automatica Sinica**, 2024.
+
+**Chaoyu Gong**, et.al  
+*Joint Evidential K-Nearest Neighbor Classification*  
+**ICDE**, 2022.
+
+**Chaoyu Gong**, et.al  
+*Self-reconstructive evidential clustering for high-dimensional data*  
+**ICDE**, 2022.
+
+**Chaoyu Gong**, et.al  
+*A Sparse Reconstructive Evidential K-Nearest Neighbor Classifier for High-dimensional Data*  
+**IEEE TKDE**, 2022.
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
