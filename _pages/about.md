@@ -13,6 +13,25 @@ I earned my Ph.D. and B.Eng. from the SEU. I was a Research Fellow at the School
 
 In addition to academic research, I also design and implement high-frequency trading (HFT) strategies, focusing on algorithmic execution and multi-market arbitrage. 
 
+Education 
+======
+
+**Ph.D.** (Recommended for Conferment)  
+Southeast University (SEU), Nanjing, China  
+*Sep. 2016 – Jun. 2022*  
+- Major: Energy and Information Engineering & Automation  
+- Advisors: Prof. Pei-hong Wang and Prof. [Zhi-gang Su](https://power.seu.edu.cn/szg/list.htm)  
+
+**Visiting Scholar**  
+School of Computing, National University of Singapore (NUS), Singapore  
+*Apr. 2021 – Apr. 2022*  
+- Advisor: Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)
+
+**B.Eng. in Engineering**  
+School of Energy and Environment, Southeast University (SEU), Nanjing, China  
+*Aug. 2012 – Jun. 2016*
+
+
 Selected Pubications 
 ======
 <sup>†</sup> Equal contribution, <sup>✉</sup> Corresponding Author， More Paper in [google scholar](https://scholar.google.com.sg/citations?user=sp6xe90AAAAJ&hl=zh-CN) 
