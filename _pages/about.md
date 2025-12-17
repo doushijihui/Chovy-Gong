@@ -47,11 +47,11 @@ Yunshu Shi, **Chaoyu Gong**<sup>✉</sup>, et.al
 
 **Chaoyu Gong**, et.al  
 *Joint Evidential K-Nearest Neighbor Classification*  
-**ICDE**, 2022.
+**IEEE ICDE**, 2022.
 
 **Chaoyu Gong**, et.al  
 *Self-reconstructive evidential clustering for high-dimensional data*  
-**ICDE**, 2022.
+**IEEE ICDE**, 2022.
 
 **Chaoyu Gong**, et.al  
 *A Sparse Reconstructive Evidential K-Nearest Neighbor Classifier for High-dimensional Data*  
