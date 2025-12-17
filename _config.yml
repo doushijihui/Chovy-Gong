@@ -22,7 +22,7 @@ repository      : "doushijihui/Chovy-Gong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "/Chovy-Gong/images/myphoto.jpg"
+  avatar: "https://doushijihui.github.io/Chovy-Gong/images/myphoto.jpg"
   name     : "Chaoyu Gong66"
   bio: "Research Fellow @ NTU<br>Incoming Associate Professor @ SEU"
   location : "Singapore"
