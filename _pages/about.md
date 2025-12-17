@@ -19,7 +19,6 @@ Education
 **Ph.D.** (Recommended for Conferment)  
 Southeast University (SEU), Nanjing, China  
 *Sep. 2016 – Jun. 2022*  
-- Major: Energy and Information Engineering & Automation  
 - Advisors: Prof. Pei-hong Wang and Prof. [Zhi-gang Su](https://power.seu.edu.cn/szg/list.htm)  
 
 **Visiting Scholar**  
