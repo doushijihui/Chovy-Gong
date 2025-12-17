@@ -22,8 +22,8 @@ repository      : "doushijihui/Chovy-Gong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar   : "/images/myphoto.jpg"
-  name     : "Chaoyu Gong33"
+  avatar   : "images/myphoto.jpg"
+  name     : "Chaoyu Gong44"
   bio: |
     Research Fellow @ NTU
     incoming Associate Professor @ SEU
