@@ -22,12 +22,14 @@ repository      : "doushijihui/Chovy-Gong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/myphoto.jpg"
-  name             : "Chaoyu Gong22"
-  bio              : "Research Fellow @ NTU, incoming Associate Professor @ SEU"
-  location         : "Singapore"
-  employer         : "Nanyang Technological University"
-  email            : "chaoyugong123@gmail.com"
+  avatar   : "/images/myphoto.jpg"
+  name     : "Chaoyu Gong33"
+  bio: |
+    Research Fellow @ NTU
+    incoming Associate Professor @ SEU
+  location : "Singapore"
+  employer : "Nanyang Technological University"
+  email    : "chaoyugong123@gmail.com"
 
   # Academic websites
   academia         : # URL
