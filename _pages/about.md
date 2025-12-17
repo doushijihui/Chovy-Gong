@@ -35,7 +35,7 @@ Selected Pubications
 ======
 <sup>†</sup> Equal contribution, <sup>✉</sup> Corresponding Author， More Paper in [google scholar](https://scholar.google.com.sg/citations?user=sp6xe90AAAAJ&hl=zh-CN) 
 
-Haoyu Liu <sup>†</sup>, **Chaoyu Gong** <sup>†</sup>, et.al  
+**Chaoyu Gong** <sup>†</sup>, Haoyu Liu <sup>†</sup> , et.al (alphabetical order)  
 *When Deepfake Detection Meets Graph Neural Network: a Unified and Lightweight Learning Framework*  
 **KDD**, 2026.
 
