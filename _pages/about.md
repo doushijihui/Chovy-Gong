@@ -27,7 +27,7 @@ School of Computing, National University of Singapore (NUS), Singapore
 - Advisor: Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)
 
 **B.Eng.**  
-School of Energy and Environment, Southeast University (SEU), Nanjing, China  
+SEU, Nanjing, China  
 *Aug. 2012 – Jun. 2016*
 
 
