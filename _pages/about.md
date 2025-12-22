@@ -16,8 +16,7 @@ In addition to academic research, I also design and implement high-frequency tra
 Education 
 ======
 
-**Ph.D.** 
-Southeast University (SEU), Nanjing, China  
+**Ph.D.** Southeast University (SEU), Nanjing, China  
 *Sep. 2016 – Jun. 2022*  
 - Advisors: Prof. Pei-hong Wang and Prof. [Zhi-gang Su](https://power.seu.edu.cn/szg/list.htm)  
 
@@ -26,8 +25,7 @@ School of Computing, National University of Singapore (NUS), Singapore
 *Apr. 2021 – Apr. 2022*  
 - Advisor: Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/)
 
-**B.Eng.**  
-SEU, Nanjing, China  
+**B.Eng.**  SEU, Nanjing, China  
 *Aug. 2012 – Jun. 2016*
 
 
