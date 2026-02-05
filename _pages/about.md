@@ -72,3 +72,7 @@ Yunshu Shi, **Chaoyu Gong**<sup>✉</sup>, et.al
 **Chaoyu Gong**, et.al  
 *A Sparse Reconstructive Evidential K-Nearest Neighbor Classifier for High-dimensional Data*  
 **IEEE TKDE**, 2022.
+
+Academic Services
+======
+Early-Career Editor: AI & Innovation (AI^2)
