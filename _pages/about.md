@@ -80,3 +80,4 @@ Yunshu Shi, **Chaoyu Gong**<sup>✉</sup>, et.al
 Academic Services
 ======
 **Early-Career Editor**: AI & Innovation (AI<sup>2</sup>)
+**Board of directors**: Belief Functions and Applications Society (BFAS)
